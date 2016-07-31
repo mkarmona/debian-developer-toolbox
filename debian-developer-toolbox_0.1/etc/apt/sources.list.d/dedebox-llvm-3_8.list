@@ -1,0 +1,5 @@
+deb http://apt.llvm.org/jessie/ llvm-toolchain-jessie main
+deb-src http://apt.llvm.org/jessie/ llvm-toolchain-jessie main
+# 3.8 
+deb http://apt.llvm.org/jessie/ llvm-toolchain-jessie-3.8 main
+deb-src http://apt.llvm.org/jessie/ llvm-toolchain-jessie-3.8 main
