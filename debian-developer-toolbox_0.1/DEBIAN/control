@@ -1,10 +1,11 @@
 Package: debian-developer-toolbox
 Architecture: all
 Maintainer: Miguel C. <mkarmona@gmail.com>
-Depends: mc, zip, unzip, rar, unrar, bzip2, p7zip-full, vim-gtk, task-mate-desktop, task-ssh-server, task-print-server, rsync, wget, curl, apt-transport-https, ca-certificates, gcc, g++, make, autoconf, libtool, cmake, cmake-qt-gui, libboost1.55-all-dev, python-dev, python-pip, gawk, git, mercurial, git-gui, gitk
+Depends: mc, zip, unzip, rar, unrar, bzip2, p7zip-full, vim-gtk, task-mate-desktop, task-ssh-server, rsync, wget, curl, apt-transport-https, ca-certificates, gcc, g++, make, autoconf, libtool, cmake, cmake-qt-gui, libboost1.55-all-dev, python-dev, python-pip, gawk, git, mercurial, git-gui, gitk
 Priority: optional
 Version: 0.1
 Description: Meta-package with a developer's packages list.
  All initial tools you use to need to develop.
  .
  This meta-package installs and configures both: packages and deb repositories.
+
